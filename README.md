@@ -14,17 +14,20 @@ Welcome to Bender the Bot. This Privacy Policy explains how we collect, use, and
 We may collect and store the following information:
 
 User IDs: We collect Discord user IDs to provide personalized services, such as user-specific settings.
+
 2.2. Server Data
 
 If applicable, we may collect and store server-specific data:
 
 Server IDs: We collect server IDs to enable server-specific features.
+
 2.3. Usage Data
 
 We may collect and store usage data, including:
 
 Bot activity logs: We may log interactions between users and the Bot for debugging and analytical purposes.
 Command history: We may log user-initiated commands for analytics.
+
 3. How We Use Your Information
 
 We use the collected information for the following purposes:
@@ -34,6 +37,7 @@ Customizing the Bot's features and functionality.
 Analyzing usage patterns to enhance user experience.
 Responding to user requests and inquiries.
 Enforcing our Terms of Service and protecting the rights and safety of our users.
+
 4. How We Share Your Information
 
 We do not sell or share your personal information with third parties unless required by law or to protect our legal rights.
